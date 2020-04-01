@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Homepage of y̢͇̭̣̥̝͓͙̦̥͓͉u̡̫̩̣͉͚̟͙͕̲̤̖͚u̮̮̘̖͍̟̗̠͚̞͔̙͢m̳͔̯͖͢i͕̩͉͈̯̝̗̬͇͇͜n̢̰̱͙̞̮ͅṋ̡̬̥͇̣̣͕̪ͅ9̢̙̙͙̤
 
-You can use the [editor on GitHub](https://github.com/yuuminn9/yuuminn9.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```
+逢いたい人がいるこの世界には
+せめて僕が生きる意味が　わずかでも　あるかな
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+夕暮れの雨のように　思い出は通り過ぎる
+傘もないから　打たれるばがり
 
-### Markdown
+ガラにもなく難しい　この世の仕組み憂いてみたり
+すぐにボロが出て　苦笑い
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+そんな時も　隣に君が　いたらな
 
-```markdown
-Syntax highlighted code block
+君の眼に僕が映る　ただ　それだけでいいような
+君を君たらしめる　すべてを　僕の手にしたいような
 
-# Header 1
-## Header 2
-### Header 3
+あぁ　したいような
 
-- Bulleted
-- List
+逢いたい人がいるこの世界には
+今日も目覚める　僕はきっと　幸せですよ
 
-1. Numbered
-2. List
+君の眼に僕が映る　ただ　それだけでいいような
+君を君たらしめる　すべてを　僕の手にしたいような
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+あぁ　あぁ
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### works
 
-### Jekyll Themes
+- [給　我　全　形　空　白　GIVE　ME　FULL　WIDTH　WHITESPACE](https://yuuminn9.github.io/full-width-whitespace/)
+- [焚而不燬 台灣魂 ──台灣建國烈士鄭南榕紀念集](https://github.com/yuuminn9/nylonsbook519)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuuminn9/yuuminn9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
