@@ -28,6 +28,6 @@
 
 ### works
 
-- [給　我　全　形　空　白　GIVE　ME　FULL　WIDTH　WHITESPACE](https://yuuminn9.github.io/full-width-whitespace/)
+- [全形空白　GIVE　ME　FULL　WIDTH　WHITESPACE](https://yuuminn9.github.io/full-width-whitespace/)
 - [焚而不燬 台灣魂 ──台灣建國烈士鄭南榕紀念集](https://github.com/yuuminn9/nylonsbook519)
 
